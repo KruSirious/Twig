@@ -1,0 +1,15 @@
+{
+    "name": "krusirious/twig-a2",
+    "description": "My First Twing Engine Template Biatch!",
+    "require": {
+        "twig/twig": "1.16.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antoine de FOUCAUD",
+            "email": "antoine.defoucaud@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
